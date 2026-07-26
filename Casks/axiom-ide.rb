@@ -7,7 +7,7 @@ cask "axiom-ide" do
   desc "AI-assisted coding IDE"
   homepage "https://github.com/traian18/axiom"
 
-  depends_on macos: ">= :big_sur"
+  depends_on macos: :big_sur
   depends_on arch: :arm64
 
   app "Axiom-IDE.app"
