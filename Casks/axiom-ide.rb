@@ -1,6 +1,6 @@
 cask "axiom-ide" do
-  version "0.1.10"
-  sha256 "c944e62edb40da1e70bf93911550edb0783bcdbf3747bd314a0e0a40a6f480cb"
+  version "0.1.11"
+  sha256 "44753154bf8685cc7237ed17aad7dc7409d5a627d853c9bd4988fb2eedb39bc1"
 
   url "https://github.com/traian18/axiom/releases/download/v#{version}/Axiom-IDE_#{version}_aarch64.dmg"
   name "Axiom IDE"
