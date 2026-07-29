@@ -1,9 +1,9 @@
-# homebrew-axiom
+# homebrew-rusty
 
-Homebrew tap for [Axiom-IDE](https://github.com/traian18/axiom).
+Homebrew tap for [Rusty-IDE](https://github.com/traian18/rusty).
 
 ## Install
 
 ```bash
-brew install --cask traian18/axiom/axiom-ide
+brew install --cask traian18/rusty/rusty-ide
 ```
